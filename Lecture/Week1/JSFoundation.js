@@ -1,4 +1,4 @@
-//Week1.2
+//Week1.2 - JS Foundation
 
 //simple primitives
 // let, const
