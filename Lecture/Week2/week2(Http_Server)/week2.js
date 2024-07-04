@@ -31,8 +31,9 @@ app.get('/conversations1', function (req, res){
 });
 
 app.post('/conversations2', function (req, res){
-    console.log(req.headers["authorization"]); //getting value from header by postman
-    console.log(req.headers.authorization);
+    //console.log(req.headers["authorization"]); 
+    //getting value from header by postman
+    console.log("Authorization : ", req.headers.authorization);
     console.log(req.body);
     res.send({
         msg : "2 + 2 = 4"

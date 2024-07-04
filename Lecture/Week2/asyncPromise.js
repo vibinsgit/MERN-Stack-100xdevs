@@ -84,12 +84,12 @@ pro.then(function(value){
     console.log("The pro value is", value);
 });
 
-function sum(a, b){
+function sum1(a, b){
     return new Promise(function (resolve){
         resolve(a + b);
     });
 }
 
-sum().then(function (ans){
+sum1().then(function (ans){
     console.log(ans);
 });
