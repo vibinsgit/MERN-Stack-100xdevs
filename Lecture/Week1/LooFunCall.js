@@ -8,6 +8,15 @@ for(let i = 0; i <= 50; i++){
 
 console.log("for loop execution ", ans);
 
+//while loops
+let i = 0;
+let myvalue = 0;
+while(i < myvalue){
+    myvalue = i + myvalue;
+    i++;
+}
+console.log("While loop execution ", myvalue);
+
 //function
 function findSum(n){
     let ans = 0;
