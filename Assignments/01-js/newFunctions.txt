@@ -1,0 +1,12 @@
+split()
+
+
+sort()
+
+
+toLowerCase(), toUpperCase
+
+
+find()
+
+includes()
