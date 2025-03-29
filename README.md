@@ -4,10 +4,10 @@
 
 | Week | Sub-Weeks | Topics | Concepts | PDF | Revision |
 |-------|----------|--------|----------|-----|----------|
-| 1 | 1.2 | JS Foundation | Array, string, data type, objects, timeout, interval | Readed | Done |
-|   | 1.3 | hhhhh | hdbdhfh,fnhfjdnd,dndjnfc,dnjdjdn | Readed | Done |
-|   | 1.4 | hhhhh | hdbdhfh,fnhfjdnd,dndjnfc,dnjdjdn | Readed | Not |
-| 2 | 2.2 | nirvnnv | hdbdhfh,fnhfjdnd,dndjnfc,dnjdjdn, vjwdbbvbw, wvjwjvwbj | No | Done |
+| 0 | 0.1 | HTML | Tags,Attributes | Readed | Done |
+|   | 0.2 | CSS | Styles,Aligning,Flexbox | Readed | Done |
+| 1 | 1.2 | JS Foundation | Simple primitives,If-else,Loops,Arrays,Objects,Functions,Callback fn,setTimeout,setInterval | Readed | Done |
+
 
 #Assignment
 
