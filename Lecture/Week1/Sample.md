@@ -12,4 +12,5 @@
 #Assignment
 
 | Week | Total Problems | Easy | Medium | Hard | Solved | Revision |
+|------|----------------|------|--------|------|--------|----------|
 | 0 | 8 | 3 | 3 | 2 | 3 | No |
