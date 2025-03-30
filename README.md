@@ -2,8 +2,8 @@
 
 #Lecture
 
-| Week | Sub-Weeks | Topics | Concepts | PDF | Revision |
-|-------|----------|--------|----------|-----|----------|
+| Week | Sub-Weeks | Topics | Concepts | Article | Pratice |
+|-------|----------|--------|----------|---------|----------|
 | 0 | 0.1 | HTML | Tags,Attributes | Readed | Done |
 |   | 0.2 | CSS | Styles,Aligning,Flexbox | Readed | Done |
 | 1 | 1.2 | JS Foundation | Simple primitives ,If-else ,Loops ,Arrays ,Objects ,Functions , Callback fn, setTimeout, setInterval | Readed | Done |
