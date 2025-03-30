@@ -11,6 +11,7 @@
 |   | 1.4 | Loops & Fn | for, while, fn, callback | Readed | Done |
 |   | 1.5 | Async, Await, Promises | fn, callback fn, promises, async fn | Readed | Done |
 | 2 | 2.1 | Revision: Callback, Promise, Async await fns | require, ,readFile, fn().then() | Readed | Done |
+|   | 2.2 | HTTP Server | express, body-parser, port, Request: get, post, listen, req, res, send, json, Values: headers, body, query | Readed | Done |
 
 
 #Assignment
