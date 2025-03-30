@@ -14,6 +14,7 @@
 |   | 2.2 | HTTP Server | express, body-parser, port, Request: get, post, listen, req, res, send, json, Values: headers, body, query | Readed | Done |
 |   | 2.3 | Basic Terminal Commands | cd, dir, mkdir, type, move, copy | Readed | Done |
 |   | 2.4 | Advance Terminal Commands |   |   |   |
+|   | 2.5 | Express with Example | In-memory pratice, OP: get, post, put, delete, status code | Readed | Done |
 
 #Assignment
 
