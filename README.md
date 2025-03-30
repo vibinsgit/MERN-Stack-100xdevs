@@ -10,8 +10,9 @@
 |   | 1.3 | JS Built-in Fn | length, indexOf, lastIndexOf, slice, replace, split, trim, toUpperCase/toLowerCase, parseInt, parseFloat, Array: push, pop, shift, unshift, concat, Class & Object, Date: new Date(), getDate, getHours, getMinutes, getSeconds, getFullYear, JSON: parse, stringfy, Math: random, floor, ceil, max, min, pow, Objects: keys, values, entries, hasOwnProperty, assign | Readed | Done |
 |   | 1.4 | Loops & Fn | for, while, fn, callback | Readed | Done |
 |   | 1.5 | Async, Await, Promises | fn, callback fn, promises, async fn | Readed | Done |
-| 2 | 2.1 | Revision: Callback, Promise, Async await fns | require, ,readFile, fn().then() | Readed | Done |
+| 2 | 2.1 | Revision: Callback, Promise, Async await fns | require, readFile, fn().then() | Readed | Done |
 |   | 2.2 | HTTP Server | express, body-parser, port, Request: get, post, listen, req, res, send, json, Values: headers, body, query | Readed | Done |
+|   | 2.3 | Basic Terminal Commands | cd, dir, mkdir, type, move, copy | Readed | Done |
 
 
 #Assignment
