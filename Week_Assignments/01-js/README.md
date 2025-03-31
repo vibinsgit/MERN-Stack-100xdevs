@@ -16,11 +16,8 @@ Feel free to start doing these in any order you like.
 #### Development Setup
 1. If you have Node.js locally, you should run these on your machine 
 2. If you don't, you can copy these over to repl.it and run it there. Tests wont be automated there so you will have to make use judgement to ensure if your code is correct
-<<<<<<< HEAD
 
 Example to run test cases: 
 
 Be in Main directory: (o1-js)
 Week_Assignments\01-js> npx jest .tests/anagram.test.js
-=======
->>>>>>> 5e6692eeee59ae0bccd74088bc9d45af45fc76a4
