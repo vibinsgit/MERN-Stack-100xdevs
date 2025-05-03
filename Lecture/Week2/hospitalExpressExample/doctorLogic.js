@@ -40,14 +40,18 @@ app.get('/', function(req, res){
 });
 
 //Task : To add the additional kidneys
+//Postman : 
+// {
+//     "isHealthy": "false"
+// }
 app.post('/', function(req, res){
-    const isHealthy = req.body.isHealthy;
+    const isHealthy = req.body.isHealthy === "true" || req.body.isHealthy === true;
     users[0].kidneys.push({
         healthy : isHealthy
     });
     res.json({
         msg : "kidney added."
-    })
+    });
 });
 
 
