@@ -19,10 +19,12 @@ res.send("I am ready.");
 app.get('/sum', function (req, res){  // localhost:3000/sum/?n=10
     const n = req.query.n; 
     const sum = calculateSum(n);
+    console.log("Total sum is", sum);
     res.send(sum.toString());
+    /*res.json({
+        "CalculateSum" : sum
+    });*/
 });
-
-
 
 app.listen(port, function (){
     console.log(`Port is running on ${port}`);
