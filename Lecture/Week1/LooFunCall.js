@@ -11,7 +11,7 @@ console.log("for loop execution ", ans);
 //while loops
 let i = 0;
 let myvalue = 0;
-while(i < myvalue){
+while(i < 50){
     myvalue = i + myvalue;
     i++;
 }

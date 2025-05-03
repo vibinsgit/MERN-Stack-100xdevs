@@ -1,3 +1,4 @@
+//V1
 //Week1.2 - JS Foundation
 
 //simple primitives
@@ -8,7 +9,7 @@ console.log(a);
 let name = "vibins";
 let age = 18;
 let isMarried = true;
-console.log("The person name is " + name + " his age is " + age + " the maritial status is " + isMarried);
+console.log("The person name is " + name + ", his age is " + age + ", the maritial status is " + isMarried);
 console.log("This person name is ");
 console.log(name);
 
@@ -21,8 +22,8 @@ if(isMarried){
 
 //loops
 let ans = 0;
-for(let i = 0; i<=100; i++){
-    ans =ans +i;
+for(let i = 0; i <= 100; i++){
+    ans = ans + i;
 }
 console.log("The sum of 100 is " + ans);
 
@@ -70,6 +71,7 @@ const user1 = {
     gender : "male"
 };
 console.log(user1["firstName"]);
+console.log(user1.age); //console.log(user1["age"]); both are same
 console.log(user1);
 
 //Arrays of Objects
@@ -91,6 +93,8 @@ const allUsers = [{
     age : 20,
     gender : "male"
 }];
+
+console.log(allUsers[1].metaData);
 
 for(let i = 0; i<allUsers.length;i++){
     if(allUsers[i]["gender"] == "female"){
@@ -162,5 +166,5 @@ function welcome(){
     console.log("Welcome you...");
 }
 
-setInterval(welcome, 2 * 1000);
+setInterval(welcome, 10 * 1000);
 

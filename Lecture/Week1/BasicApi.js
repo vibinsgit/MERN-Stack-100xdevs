@@ -63,27 +63,29 @@ console.log(parseFloat("47px"));
 
 //ArrayConcepts
 
+const newArray = []; //Empty array
+
 //push()
 const array = [1, 2, 3, 4];
 array.push(2);
-console.log(array);
+console.log("push : ", array);
 
 //pop()
 array.pop();
-console.log(array);
+console.log("pop : ", array);
 
 //shift()
 array.shift();
-console.log(array);
+console.log("shift : ", array);
 
 //unshift
 array.unshift(0);
-console.log(array);
+console.log("unshift : ", array);
 
 //concetination
 const firstArray = [1, 2, 3, 4];
 const secondArray = [6, 7, 8, 9];
-console.log(firstArray.concat(secondArray));
+console.log("concat : ", firstArray.concat(secondArray));
 
 //forEach()
 
@@ -201,7 +203,7 @@ let obj1 ={
     rollNo : 502047
 }
 
-console.log(obj1.hasOwnProperty("age"));
+console.log(obj1.hasOwnProperty("age")); //return true or false
 
 //assign()
 let newObj = Object.assign({}, obj1, {newProperty : "newValue"});
